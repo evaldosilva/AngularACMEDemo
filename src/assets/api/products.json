@@ -1,0 +1,29 @@
+[
+    {
+        "Id": 1,
+        "Name":"Cart",
+        "Code":"gbn-10",
+        "Available": true,
+        "Price": 35.12,
+        "Rating": 3.2,
+        "ImageUrl": "assets/images/cart.png"
+    },
+    {
+        "Id": 2,
+        "Name":"Mario Cart",
+        "Code":"gbrwern-13423420",
+        "Available": true,
+        "Price": 35.12,
+        "Rating": 1.2,
+        "ImageUrl": "assets/images/cart.png"
+    },
+    {
+        "Id": 3,
+        "Name":"Super Cart",
+        "Code":"gbrtn-1rwer0",
+        "Available": true,
+        "Price": 35.12,
+        "Rating": 5.2,
+        "ImageUrl": "assets/images/cart.png"
+    }
+]
